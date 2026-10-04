@@ -1,0 +1,10 @@
+# Python environment
+venv/
+__pycache__/
+
+# Data: download from Kaggle (see README), not redistributed here
+data/
+
+# Jupyter / macOS clutter
+.ipynb_checkpoints/
+.DS_Store
